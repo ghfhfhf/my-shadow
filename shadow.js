@@ -12573,4 +12573,5 @@ google({ query: input, disableConsole: true }).then(results => {
 
 
 
-client.login('NDQ3NzkyMjQ2NDk0OTg2MjUw.De3SMQ.lolw488UZmLAScVL6t7CxSoCn_k')
+
+client.login(process.env.BOT_TOKEN);
